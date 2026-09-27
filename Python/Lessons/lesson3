@@ -1,0 +1,18 @@
+#Boolean
+if('True'):
+    print("Yes")
+else:
+    print("No")
+if('False'):
+    print("No")
+else:
+    print("Yes")
+
+#Comparison Operators
+print("kathija" == "kathija") #true
+print("kathija" == "kathijaa") #true
+Chottu="win"
+if(Chottu == "winn"):
+    print("Daisy will be pregnant")
+else:    
+    print("Daisy will not be pregnant")
